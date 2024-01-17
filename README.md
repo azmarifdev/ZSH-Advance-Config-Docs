@@ -47,7 +47,7 @@ sudo pacman -S curl git
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
-I recommend installing 4 additional plugins that we’ll activate later through OMZ configuration file
+I recommend installing 6 additional plugins that we’ll activate later through OMZ configuration file
 
 - #### zsh-syntax-highlighting
 ```
