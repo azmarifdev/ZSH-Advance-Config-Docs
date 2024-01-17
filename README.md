@@ -78,6 +78,7 @@ git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git $ZS
 ```
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 ```
+
 ```
 ~/.fzf/install
 ```
