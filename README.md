@@ -125,6 +125,18 @@ source ~/.zshrc
 chsh -s $(which zsh)
 ```
 
-#### You can find my fork of the file on [Github Gists](https://gist.github.com/azmarifdev/9c16c5a33e93aee05b35147fe7da1015)
+## 🚀 Tip: (Optional)
+### If you need more minimal, blazing-fast, and infinitely customizable prompt for any shell! You can use Starship.
+
+#### Why do you use Starship?
+ - Fast: it's fast – really really fast! 🚀
+ - Customizable: configure every aspect of your prompt.
+ - Universal: works on any shell, on any operating system.
+ - Intelligent: shows relevant information at a glance.
+ - Feature-rich: support for all your favorite tools.
+ - Easy: quick to install – start using it in minutes.
+
+
+#### You can visit my [Starship Documentation](https://gist.github.com/azmarifdev/b74f508c07d0af6f4edbbb6e480b53c1).
 
 Enjoy!
