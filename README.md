@@ -125,6 +125,6 @@ source ~/.zshrc
 chsh -s $(which zsh)
 ```
 
-#### You can find my fork of the file on Github Gists
+#### You can find my fork of the file on [Github Gists](https://gist.github.com/azmarifdev/9c16c5a33e93aee05b35147fe7da1015)
 
 Enjoy!
